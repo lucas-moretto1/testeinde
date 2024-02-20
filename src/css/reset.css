@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+img{
+    max-width: 100%;
+}
+
+button{
+  border-style: none;
+  background-color: transparent;
+}
+
+body::-webkit-scrollbar {
+    width: 9px;
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: #E4E5EB;
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: #09143C;
+    border-radius: 10px;
+  }
